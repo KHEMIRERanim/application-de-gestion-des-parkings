@@ -1,3 +1,0 @@
-6,parkingC,rueC,123,321,villeC,Résidentiel,800,700,2,libre,Alarme ,09:00,20:00,ferme,agent
-6,parkingC,rueC,123,321,villeC,Résidentiel,800,700,2,libre,Alarme ,09:00,20:00,ferme,agent
-100,parkingG,rueG,1111,2336,villeC,Privé,1,1,2,mot de passe,Caméras ,01:00,01:00,ouvert,agent

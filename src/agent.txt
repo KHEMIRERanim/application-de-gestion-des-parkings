@@ -1,3 +1,0 @@
-21,ranim,jj
-33,ali,nbc
-99,jh,223
